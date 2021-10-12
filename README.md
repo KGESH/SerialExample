@@ -4,7 +4,7 @@
 
 ## Description
 
-Serial port study, before making uart serial monitor app
+Serial port study, before making UART monitor app
 
 
 ## Environment
